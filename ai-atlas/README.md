@@ -119,7 +119,7 @@ You probably use three or four AI tools a week. Each one has its own history, it
 **Prerequisites:** Node.js **22.13+** and npm.
 
 ```bash
-git clone https://github.com/satiricalguru/Ai-atlas.git
+git clone https://github.com/JayDev-27/Ai-atlas.git
 cd Ai-atlas
 npm ci
 npm run dev
@@ -312,7 +312,7 @@ AI product names and logos are trademarks of their respective owners and are use
 
 <div align="center">
 
-<sub>Made with curiosity by <a href="https://github.com/satiricalguru">Jatin Pandey</a> · If Atlas gave you a clearer picture, a ⭐ helps others find it.</sub>
+<sub>Made with curiosity by <a href="https://github.com/JayDev-27">Jatin Pandey</a> · If Atlas gave you a clearer picture, a ⭐ helps others find it.</sub>
 
 <br/>
 
